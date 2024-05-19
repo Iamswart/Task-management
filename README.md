@@ -1,4 +1,4 @@
-# Brillo Sport Backend
+# NIYO Task Management
 
 ## Overview
 
@@ -67,5 +67,5 @@ These instructions will get you a copy of the project up and running on your loc
    ```bash
    npm run start:dev
 
-   The API will be available at http://localhost:3000 .  Swagger documentation can be accessed at http://localhost:3000/docs/swagger.
    ```
+   The API will be available at http://localhost:3000 .  Swagger documentation can be accessed at http://localhost:3000/docs/swagger.
